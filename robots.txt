@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://astro-portfolio-uzair.vercel.app/sitemap-index.xml
