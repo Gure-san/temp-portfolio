@@ -61,24 +61,22 @@ untuk mencapai hasil yang terbaik.
       location: "Jl. Tanimbar No.22, Kasin, Kec. Klojen, Kota Malang",
       startDate: "2020",
       endDate: "2023",
-      description: [
-        "Jurusan Rekayasa Perangkat Lunak (RPL)",
-      ],
+      description: ["Jurusan Rekayasa Perangkat Lunak (RPL)"],
     },
   ],
 
   socialMedia: {
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
+    github: "https://github.com/Gure-san",
+    email: "abdulaziz50024@gmail.com",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Todolist",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/todolist-desktop.png",
+      githubUrl: "https://github.com/Gure-san/todolist",
+      liveUrl: "https://gure-san.github.io/todolist/",
     },
   ],
 };
