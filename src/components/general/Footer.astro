@@ -3,12 +3,14 @@ import { info } from "@data";
 ---
 
 <footer
-  class="container flex sm:flex-row flex-col justify-between items-center mb-8 sm:mb-4"
+  class="container flex sm:flex-row flex-col justify-between items-center mb-8"
 >
-  <p class="dark:text-light text-right my-8">
-    Developed by <strong>Uzair Ahmed</strong>
+  <p class="dark:text-light my-8">
+    Kontak : <br />
+    <span>+62 856-4662-2518</span>
   </p>
-  <div class="grid grid-cols-5 gap-4">
+
+  <div class="flex space-x-2">
     <a
       aria-label="Social Media"
       href={info.socialMedia.github}
@@ -31,6 +33,7 @@ import { info } from "@data";
         ></path>
       </svg>
     </a>
+
     <a
       aria-label="Social Media"
       href={info.socialMedia.email}

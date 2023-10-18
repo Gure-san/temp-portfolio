@@ -36,6 +36,6 @@
     @apply font-inter text-dark-gray;
   }
   .footer-icons {
-    @apply dark:text-light flex items-center border border-dark dark:border-light p-4 rounded-lg justify-center;
+    @apply dark:text-light bg-slate-100 dark:bg-[#202020] flex items-center p-4 rounded-full justify-center;
   }
 }
