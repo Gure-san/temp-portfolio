@@ -28,17 +28,33 @@ pengguna. Selalu up-to-date dengan perkembangan
 teknologi terbaru, saya selalu berusaha memberikan
 solusi, menggabungkan kreativitas dan keahlian teknis
 untuk mencapai hasil yang terbaik.
+
+<br/>
+<br/>
+
+Saya juga terbuka untuk mengeksplorasi peluang pekerjaan di luar pengembangan web, dengan tetap memanfaatkan keterampilan analitis, kreativitas, dan kemampuan teknis yang telah saya bangun. Dengan pendekatan yang adaptif dan pembelajaran yang cepat, saya siap untuk mengambil peran baru yang memberikan kontribusi positif dan berdampak, baik di bidang teknologi maupun di sektor lainnya
   `,
 
   experience: [
     {
+      name: "Front End Web Developer",
+      location: "TMint Creative Studio",
+      startDate: "Nov 2023",
+      endDate: "Nov 2024",
+      description: [
+        "✓ Mengerjakan project aplikasi desa.",
+        "✓ Membuat component library (Design system) untuk kebutuhan project.",
+      ],
+    },
+
+    {
       name: "Freelancer",
       location: "Remote",
       startDate: "Jun 2023",
-      endDate: "Sekarang",
+      endDate: "Nov 2023",
       description: [
-        "- Mengerjakan project aplikasi desa.",
-        "- Membuat component library (Design system) untuk kebutuhan project.",
+        "✓ Mengerjakan project aplikasi desa.",
+        "✓ Membuat component library (Design system) untuk kebutuhan project.",
       ],
     },
 
